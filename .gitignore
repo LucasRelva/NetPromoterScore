@@ -6,5 +6,5 @@ yarn.lock
 .editorconfig
 .yarnrc
 yarn-error.log
-
+/src/database/*.sqlite
 
